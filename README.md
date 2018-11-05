@@ -1,3 +1,3 @@
 # RaspberryPiUpdater
-A small program to remotely update my raspberry pi using www.losant.com <br>
+A small program to update my raspberry pi every day at 4am<br>
 NOT YET READY
