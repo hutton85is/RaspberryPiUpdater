@@ -13,4 +13,4 @@
 /usr/bin/sudo rpi-update
 
 # Trigger a reboot
-/usr/bin/sudo shutdown -r
+/usr/bin/sudo reboot
