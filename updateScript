@@ -10,7 +10,7 @@
 /usr/bin/sudo apt-get -y dist-upgrade
 
 # Finally rpi-update
-/usr/bin/sudo rpi-update
+# /usr/bin/sudo rpi-update
 
 # Trigger a reboot
 /usr/bin/sudo reboot
